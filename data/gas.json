@@ -1,0 +1,30 @@
+[
+  {
+    "@id": "CO2",
+    "name": "CO2"
+  },
+  {
+    "@id": "CH4",
+    "name": "CH4"
+  },
+  {
+    "@id": "N2O",
+    "name": "N2O"
+  },
+  {
+    "@id": "HFC",
+    "name": "HFC"
+  },
+  {
+    "@id": "PFC",
+    "name": "PFC"
+  },
+  {
+    "@id": "SF6",
+    "name": "SF6"
+  },
+  {
+    "@id": "NF3",
+    "name": "NF3"
+  }
+]

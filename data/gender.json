@@ -1,0 +1,10 @@
+[
+  {
+    "@id": false,
+    "name": "Female"
+  },
+  {
+    "@id": true,
+    "name": "Male"
+  }
+]

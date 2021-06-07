@@ -1,0 +1,14 @@
+[
+  {
+    "@id": 1,
+    "name": "Consumed"
+  },
+  {
+    "@id": 2,
+    "name": "Self-generated not consumed"
+  },
+  {
+    "@id": 3,
+    "name": "Sold"
+  }
+]

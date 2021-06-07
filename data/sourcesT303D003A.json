@@ -1,0 +1,22 @@
+[
+  {
+    "@id": 1,
+    "name": "Surface water"
+  },
+  {
+    "@id": 2,
+    "name": "Groundwater"
+  },
+  {
+    "@id": 3,
+    "name": "Seawater"
+  },
+  {
+    "@id": 4,
+    "name": "Produced water"
+  },
+  {
+    "@id": 101,
+    "name": "Third-party water"
+  }
+]

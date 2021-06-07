@@ -1,0 +1,22 @@
+[
+  {
+    "@id": 1,
+    "name": "Critically endangered"
+  },
+  {
+    "@id": 2,
+    "name": "Endangered"
+  },
+  {
+    "@id": 3,
+    "name": "Vulnerable"
+  },
+  {
+    "@id": 4,
+    "name": "Near threatened"
+  },
+  {
+    "@id": 5,
+    "name": "Least concern"
+  }
+]

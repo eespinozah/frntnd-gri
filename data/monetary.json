@@ -1,0 +1,10 @@
+[
+  {
+    "@id": true,
+    "name": "Penalty"
+  },
+  {
+    "@id": false,
+    "name": "Non-monetary sanction"
+  }
+]

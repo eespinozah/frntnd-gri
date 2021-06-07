@@ -1,0 +1,10 @@
+[
+  {
+    "@id": true,
+    "name": "External suppliers"
+  },
+  {
+    "@id": false,
+    "name": "Obtained internally"
+  }
+]

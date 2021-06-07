@@ -1,0 +1,14 @@
+[
+  {
+    "@id": "J",
+    "name": "Julios"
+  },
+  {
+    "@id": "KJ",
+    "name": "Kilojulios"
+  },
+  {
+    "@id": "MJ",
+    "name": "Megajulios"
+  }
+]

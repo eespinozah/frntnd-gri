@@ -1,0 +1,30 @@
+[
+  {
+    "@id": "NOX",
+    "name": "NOX"
+  },
+  {
+    "@id": "SOX",
+    "name": "SOX"
+  },
+  {
+    "@id": "POP",
+    "name": "POP"
+  },
+  {
+    "@id": "VOC",
+    "name": "VOC"
+  },
+  {
+    "@id": "HAP",
+    "name": "HAP"
+  },
+  {
+    "@id": "PM",
+    "name": "PM"
+  },
+  {
+    "@id": "OTHER",
+    "name": "Other emission"
+  }
+]

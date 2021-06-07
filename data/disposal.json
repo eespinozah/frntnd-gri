@@ -1,0 +1,38 @@
+[
+  {
+    "@id": 1,
+    "name": "Reuse"
+  },
+  {
+    "@id": 2,
+    "name": "Recycling"
+  },
+  {
+    "@id": 3,
+    "name": "Composting"
+  },
+  {
+    "@id": 4,
+    "name": "Recovery, including energy recovery"
+  },
+  {
+    "@id": 5,
+    "name": "Incineration (mass burn)"
+  },
+  {
+    "@id": 6,
+    "name": "Deep well injection"
+  },
+  {
+    "@id": 7,
+    "name": "Landfill"
+  },
+  {
+    "@id": 8,
+    "name": "On-site storage"
+  },
+  {
+    "@id": 9,
+    "name": "Others (to be specified by the organization)"
+  }
+]

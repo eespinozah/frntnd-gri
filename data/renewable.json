@@ -1,0 +1,10 @@
+[
+  {
+    "@id": true,
+    "name": "Renewable"
+  },
+  {
+    "@id": false,
+    "name": "Non-renewable"
+  }
+]

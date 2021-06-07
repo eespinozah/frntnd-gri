@@ -1,0 +1,71 @@
+import T301D001A from './T301D001A';
+import T301D002A from './T301D002A';
+import T301D003A from './T301D003A';
+import T302D001AB from './T302D001AB';
+import T302D001CD from './T302D001CD';
+import T302D002A from './T302D002A';
+import T302D003ABD from './T302D003ABD';
+import T302D004A from './T302D004A';
+import T302D005A from './T302D005A';
+import T302SummaryAB from './T302SummaryAB';
+import T303D003A from './T303D003A';
+import T303D003B from './T303D003B';
+import T303D003C from './T303D003C';
+import T303D004AB from './T303D004AB';
+import T303D004C from './T303D004C';
+import T303D004C2 from './T303D004C2';
+import T303D004C3 from './T303D004C3';
+import T303D005AB from './T303D005AB';
+import T304D001A from './T304D001A';
+import T304D003AC from './T304D003AC';
+import T304D004A from './T304D004A';
+import T305D001A from './T305D001A';
+import T305D002A from './T305D002A';
+import T305D002B from './T305D002B';
+import T305D003A from './T305D003A';
+import T305D004AB from './T305D004AB';
+import T305D005A from './T305D005A';
+import T305D007A from './T305D007A';
+import T306D001A from './T306D001A';
+import T306D002AB from './T306D002AB';
+import T306D003AB from './T306D003AB';
+import T306D004A from './T306D004A';
+import T307D001A from './T307D001A';
+
+export const register300 = Vue => {
+  [
+    T301D001A,
+    T301D002A,
+    T301D003A,
+    T302D001AB,
+    T302D001CD,
+    T302D002A,
+    T302D003ABD,
+    T302D004A,
+    T302D005A,
+    T302SummaryAB,
+    T303D003A,
+    T303D003B,
+    T303D003C,
+    T303D004AB,
+    T303D004C,
+    T303D004C2,
+    T303D004C3,
+    T303D005AB,
+    T304D001A,
+    T304D003AC,
+    T304D004A,
+    T305D001A,
+    T305D002A,
+    T305D002B,
+    T305D003A,
+    T305D004AB,
+    T305D005A,
+    T305D007A,
+    T306D001A,
+    T306D002AB,
+    T306D003AB,
+    T306D004A,
+    T307D001A
+  ].forEach(c => Vue.component(c.name, c));
+};

@@ -1,0 +1,10 @@
+[
+  {
+    "@id": true,
+    "name": "With water stress"
+  },
+  {
+    "@id": false,
+    "name": "Without water stress"
+  }
+]

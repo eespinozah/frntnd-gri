@@ -1,0 +1,14 @@
+[
+  {
+    "@id": null,
+    "name": "Pending"
+  },
+  {
+    "@id": true,
+    "name": "Finished"
+  },
+  {
+    "@id": false,
+    "name": "Omitted"
+  }
+]

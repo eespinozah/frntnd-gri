@@ -1,0 +1,22 @@
+[
+  {
+    "@id": 130,
+    "name": "Megawatt-hour",
+    "symbol":"MWh"
+  },
+  {
+    "@id": 140,
+    "name": "Gigawatt-hour",
+    "symbol": "GWh"
+  },
+  {
+    "@id": 230,
+    "name": "Gigajoule",
+    "symbol": "GJ"
+  },
+  {
+    "@id": 240,
+    "name": "Terajoule",
+    "symbol": "TJ"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "@id": true,
+    "name": "Fresh water"
+  },
+  {
+    "@id": false,
+    "name": "Other waters"
+  }
+]

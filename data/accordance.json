@@ -1,0 +1,10 @@
+[
+  {
+    "@id": false,
+    "name": "Essential"
+  },
+  {
+    "@id": true,
+    "name": "Exhaustive"
+  }
+]

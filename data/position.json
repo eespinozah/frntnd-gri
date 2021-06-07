@@ -1,0 +1,14 @@
+[
+  {
+    "@id": 1,
+    "name": "In the area"
+  },
+  {
+    "@id": 2,
+    "name": "Adjacent"
+  },
+  {
+    "@id": 3,
+    "name": "Containing portions"
+  }
+]

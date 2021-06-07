@@ -1,0 +1,26 @@
+[
+  {
+    "@id": 1,
+    "name": "Operating costs"
+  },
+  {
+    "@id": 2,
+    "name": "Employee wages and benefits"
+  },
+  {
+    "@id": 3,
+    "name": "Payments to providers of capital"
+  },
+  {
+    "@id": 4,
+    "name": "Payments to government by country"
+  },
+  {
+    "@id": 5,
+    "name": "Community investments"
+  },
+  {
+    "@id": 100,
+    "name": "Other"
+  }
+]

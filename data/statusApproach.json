@@ -1,0 +1,10 @@
+[
+  {
+    "@id": false,
+    "name": "Pending"
+  },
+  {
+    "@id": true,
+    "name": "Finished"
+  }
+]

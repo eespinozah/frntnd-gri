@@ -1,0 +1,22 @@
+[
+  {
+    "@id": 1,
+    "name": "Oil spills"
+  },
+  {
+    "@id": 2,
+    "name": "Fuel spills"
+  },
+  {
+    "@id": 3,
+    "name": "Spills of wastes"
+  },
+  {
+    "@id": 4,
+    "name": "Spills of chemicals"
+  },
+  {
+    "@id": 99,
+    "name": "Other"
+  }
+]
